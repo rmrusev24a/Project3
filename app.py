@@ -17,7 +17,7 @@ if "students" not in st.session_state:
         "Иван": 0,
         "Мария": 0,
         "Георги": 0,
-        "Анна": 0
+        "Ани": 0
     }
 
 st.subheader("Избери")
